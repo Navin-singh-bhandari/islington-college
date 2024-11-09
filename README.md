@@ -1,3 +1,3 @@
 # islington-college
-this is my second repository /n author - nabin
+this is my second repository <br> author - nabin
 
